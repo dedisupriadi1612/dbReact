@@ -26,43 +26,36 @@
         "id": 1,
         "path": "/home",
         "page": "home",
-        "name": "Home",
-
+        "name": "Home"
       }, {
         "id": 2,
         "path": "/user",
         "page": "user",
-        "name": "User",
-
+        "name": "User"
       }, {
         "id": 3,
         "path": "/class",
         "page": "class",
-        "name": "Class",
-
+        "name": "Class"
       },{
         "id": 4,
         "path": "/courses",
         "page": "courses",
-        "name": "Courses",
-
+        "name": "Courses"
       },{
         "id": 5,
         "path": "/event",
         "page": "event",
-        "name": "Event",
-
+        "name": "Event"
       },{
         "id": 6,
         "path": "/brodcast",
         "page": "brodcast",
-        "name": "Brodcast",
-
+        "name": "Brodcast"
       },{
         "id": 7,
         "path": "/reports",
         "page": "reports",
-        "name": "Reports",
-
+        "name": "Reports"
       }]
 }
