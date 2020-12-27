@@ -5,7 +5,64 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [{
+        "id":"1",
+        "name":"tes",
+        "price":"8000"
+    },{
+        "id":"2",
+        "name":"aku",
+        "price":"9000" 
+    },{
+        "id":"3",
+        "name":"aku",
+        "price":"9000" 
+    },{
+        "id":"4",
+        "name":"aku",
+        "price":"9000" 
+    }],
+   "menu": [{
+        "id": 1,
+        "path": "/home",
+        "page": "home",
+        "name": "Home",
+
+      }, {
+        "id": 2,
+        "path": "/user",
+        "page": "user",
+        "name": "User",
+
+      }, {
+        "id": 3,
+        "path": "/class",
+        "page": "class",
+        "name": "Class",
+
+      },{
+        "id": 4,
+        "path": "/courses",
+        "page": "courses",
+        "name": "Courses",
+
+      },{
+        "id": 5,
+        "path": "/event",
+        "page": "event",
+        "name": "Event",
+
+      },{
+        "id": 6,
+        "path": "/brodcast",
+        "page": "brodcast",
+        "name": "Brodcast",
+
+      },{
+        "id": 7,
+        "path": "/reports",
+        "page": "reports",
+        "name": "Reports",
+
+      },]
 }
